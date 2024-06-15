@@ -1,0 +1,14 @@
+{
+  "name": "saly-backen",
+  "version": "1.0.0",
+  "description": "let's learn backend in a pro way ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MREN"
+  ],
+  "author": "arham",
+  "license": "ISC"
+}
